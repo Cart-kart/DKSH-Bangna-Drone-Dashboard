@@ -4,7 +4,7 @@
 
 Live drone mission dashboard — DKSH Bangna site.
 
-- **Live:** https://cart-kart.github.io/DKSH-Drone-Dashboard/
+- **Live:** https://cart-kart.github.io/DKSH-Bangna-Drone-Dashboard/
 - **Version:** V.1.0 DKSH
 - **Main file:** index.html (single-file, all JS/CSS embedded)
 - **Template base:** Cart-kart/Drone-Dashboard-Creator
